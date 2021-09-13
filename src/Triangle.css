@@ -1,0 +1,23 @@
+.hello {
+  position: relative;
+  text-align: center;
+}
+.rec {
+  background-color: rgb(243, 4, 4);
+  opacity: 0.5;
+  height: 50vh;
+  width: 50vw;
+  position: absolute;
+  left: 20%;
+  top: 10%;
+}
+.rec2 {
+  position: absolute;
+  left: 40%;
+  bottom: 30%;
+}
+.tex {
+  position: absolute;
+  left: 38%;
+  bottom: 20%;
+}
